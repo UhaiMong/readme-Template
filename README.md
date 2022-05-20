@@ -93,9 +93,9 @@ function(){
 
 ### Task List
 
-- [a] Task1
-- [a] Task2
-- [] Task3
+- [X] Task1
+- [X] Task2
+- [X] Task3
 
 <br>
 
